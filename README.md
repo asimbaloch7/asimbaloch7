@@ -74,7 +74,7 @@ I'm a full stack developer working across the frontend, backend, APIs, and datab
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **MERN** | Full-stack web application built with the MERN stack. | MongoDB · Express.js · React · Node.js | [Repository](https://github.com/asimalizamurani/MERN) |
+| **MERN** | Full-stack web application built with the MERN stack. | MongoDB · Express.js · React · Node.js | [Repository](https://github.com/asimbaloch7/MERN) |
 | _More projects coming soon_ | — | — | — |
 
 <br>
@@ -83,13 +83,13 @@ I'm a full stack developer working across the frontend, backend, APIs, and datab
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=asimalizamurani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Asim's GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimalizamurani&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=asimbaloch7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Asim's GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimbaloch7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" /></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=asimalizamurani&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=asimbaloch7&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
 </div>
 
 <br>
@@ -97,7 +97,7 @@ I'm a full stack developer working across the frontend, backend, APIs, and datab
 ## Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimalizamurani&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimbaloch7&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution Activity Graph" />
 </div>
 
 <br>
@@ -106,10 +106,10 @@ I'm a full stack developer working across the frontend, backend, APIs, and datab
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asimalizamurani)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asimbaloch7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimali7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimali2877)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100073655423139)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimali.dev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asimali.dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/asim4857_44489)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asimalizamurani@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balochcoder.com)
@@ -130,6 +130,6 @@ Visit: [balochcoder.com](https://balochcoder.com)
 
 **Let's build something useful together.**
 
-[balochcoder.com](https://balochcoder.com) · [GitHub](https://github.com/asimalizamurani)
+[balochcoder.com](https://balochcoder.com) · [GitHub](https://github.com/asimbaloch7)
 
 </div>
