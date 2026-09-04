@@ -15,16 +15,16 @@ I build responsive, scalable web applications — from REST APIs to polished fro
 
 ## About
 
-I'm a full stack developer working across the frontend, backend, APIs, and databases to ship complete web applications. My core focus is the **MERN stack** (MongoDB, Express.js, React, Node.js), and I care about writing clean, maintainable code and building interfaces that feel responsive and intuitive. I'm continuously learning and improving as I take on new projects.
+I'm a full stack developer working across the frontend, backend, APIs, and databases to ship complete web applications. My core focus is the **MERN stack** (MongoDB, Express.js, React, Node.js), and I care about writing clean, maintainable code and building interfaces that feel responsive and intuitive. I'm currently a second-year Software Engineering student at the **University of Peshawar**, and I'm continuously learning and improving as I take on new projects.
 
 <br>
 
 ## Currently
 
+- **Studying:** Software Engineering (2nd year) at University of Peshawar
 - **Learning:** React.js — deepening my frontend expertise
 - **Building:** Full-stack applications using the MERN stack
 - **Open to:** Collaboration on web development and open-source projects
-- **Interested in:** Modern web development and contributing to open-source
 
 <br>
 
