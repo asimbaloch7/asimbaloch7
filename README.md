@@ -7,7 +7,7 @@
 
 I build responsive, scalable web applications — from REST APIs to polished front-end interfaces.
 
-[![Website](https://img.shields.io/badge/BalochCoder-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balochcoder.com)
+[<img src="https://res.cloudinary.com/balochcoder/image/upload/v1787943997/logo_nq6pwg.png" alt="BalochCoder" height="32" />](https://balochcoder.com)
 
 </div>
 
