@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/asimalizamurani.png" width="110" style="border-radius:50%;" alt="Asim Ali" />
+<img src="https://github.com/asimbaloch7.png" width="110" style="border-radius:50%;" alt="Asim Ali" />
 
 # Asim Ali
 ### Full Stack Web Developer · MERN Stack
